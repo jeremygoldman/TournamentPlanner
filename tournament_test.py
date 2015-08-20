@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #
-# Test cases for tournament.py
+# Author: Jeremy Goldman
+# File: tournament_test.py
+# Purpose: Test cases for tournament.py
 
 from tournament import *
 

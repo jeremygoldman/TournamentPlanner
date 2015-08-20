@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-# 
-# tournament.py -- implementation of a Swiss-system tournament
 #
+# Author: Jeremy Goldman
+# File: tournament.py
+# Purpose: implementation of a Swiss-system tournament
 
 import psycopg2
 
